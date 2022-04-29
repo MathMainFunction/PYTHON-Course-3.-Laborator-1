@@ -1,0 +1,5 @@
+lastName = input('Enter last name: ')
+name = input('Enter first name: ')
+patronymic = input('Enter patronymic: ')
+print(lastName,name,patronymic)
+print(name,patronymic,lastName)
